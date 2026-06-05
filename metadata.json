@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Pro",
+  "description": "Premium and professional fitness tracking application designed with dark slate colors, orange highlights, local Room database tracking, workout engines, rest timers, and custom analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
